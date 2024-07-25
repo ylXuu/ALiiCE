@@ -1,0 +1,5 @@
+{
+    "instructions": "The following sentence may have some grammatical errors and may have some redundant ingredients. As long as it ensures fluency, you can delete some parts of the sentence that you think don't make sense.",
+    "demo_sep": "\n\n\n",
+    "demo_prompt": "{INST}\n\n{SENT}\n\nNew sentence: {A}"
+}

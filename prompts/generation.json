@@ -1,0 +1,6 @@
+{
+    "instruction": "Please provide an accurate and concise answer that includes fine-grained in-text citations immediately following the relevant information. Place the citation numbers within brackets directly after the facts they support.\n\n Citation format examples:\n Cups can be made of glass[1] or plastic[2][3].\nPlastic can be used to make cups[3], but may contain some bad effects[4].",
+    "demo_sep": "\n\n",
+    "demo_prompt": "{INST}\n\nQuestion: {Q}\n\n{D}\nAnswer: {A}",
+    "doc_prompt": "Document [{ID}] Title: {T}: {P}\n"
+}
