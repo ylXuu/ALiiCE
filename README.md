@@ -1,19 +1,14 @@
 # ALiiCE
 This is the repository of **ALiiCE** (**A**utomatic **L**LM's Pos**i**tional F**i**ne-grained **C**itation **E**valuation), from the paper: [ALiiCE: Evaluating Positional Fine-grained Citation Generation.](https://arxiv.org/abs/2406.13375)
 
+## News
+
+- Our paper was accepted by NAACL 2025 Main Conference!
 
 ## Introduction
 ALiiCE focuses on the task of positional fine-grained citation text generation, which citation marks can appear anywhere within sentences. Our framework first parses the sentence claim into atomic claims via dependency analysis. We implement three novel metrics, including positional fine-grained citation recall and precision, and coefficient of variation of citation positions. Our code can be a effective method to evaluate performance for the task of positional fine-grained citation text generation.
 
-<!-- The structure of our repository is as follows:
-```
-ALiiCE/
-|--
-|-- src
-|   |--
-|   |--
-|   └──
-``` -->
+
 
 The function of each main file or folder is as follows:
 - data/: ASQA and ELI5 datasets
