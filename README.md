@@ -4,6 +4,8 @@ This is the repository of **ALiiCE** (**A**utomatic **L**LM's Pos**i**tional F**
 ## News
 
 - Our paper was accepted by NAACL 2025 Main Conference!
+- The paper poster has been uploaded.
+
 
 ## Introduction
 ALiiCE focuses on the task of positional fine-grained citation text generation, which citation marks can appear anywhere within sentences. Our framework first parses the sentence claim into atomic claims via dependency analysis. We implement three novel metrics, including positional fine-grained citation recall and precision, and coefficient of variation of citation positions. Our code can be a effective method to evaluate performance for the task of positional fine-grained citation text generation.
